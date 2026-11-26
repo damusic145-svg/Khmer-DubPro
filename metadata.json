@@ -1,0 +1,6 @@
+{
+  "name": "AI Khmer Dubber Pro",
+  "description": "AI-powered automatic video dubbing studio with multilingual speech recognition, speaker diarization, Gemini 3.1 Flash Khmer translation, character-matched Khmer AI voices, audio ducking sync, and MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

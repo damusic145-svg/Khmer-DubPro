@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AI Khmer Dubber Pro</string>
+    <string name="notification_channel_dubbing">Dubbing Pipeline</string>
+    <string name="notification_channel_dubbing_desc">Background AI dubbing, translation, and MP4 export progress</string>
+</resources>
